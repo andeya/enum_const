@@ -3,10 +3,10 @@ name = "enum_const"
 version = "0.1.1"
 edition = "2021"
 resolver = "2"
-authors = ["henrylee2cn <henrylee2cn@gmail.com>"]
+authors = ["andeya <andeyalee@outlook.com>"]
 description = "enum const trait"
 license = "Apache-2.0"
-repository = "https://github.com/henrylee2cn/enum_const"
+repository = "https://github.com/andeya/enum_const"
 readme = "./README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
